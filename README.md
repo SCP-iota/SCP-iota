@@ -7,7 +7,6 @@ I like to learn new technologies, so I have experience in numerous programming l
 - 🌱 I’m currently learning Discord bot development
 - 😄 Pronouns: she/her
 - 📫 How to reach me: email me at scp-iota@proton.me
-- ☕ [I do small software development commissions on Ko-Fi](https://ko-fi.com/scpiota)
 
 Here's some stuff I do:
 
